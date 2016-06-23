@@ -14,8 +14,8 @@
         "php": ">=5.3.0",
         "pear/pear-core-minimal": "^1.10",
         "ppast/auth_sasl": "^1.0",
-        "pear/net_socket": "^1.0"
-        "xlight/Net_IMAP": "*",
+        "pear/net_socket": "^1.0",
+        "xlight/Net_IMAP": "*"
     },
     "repositories": [
         {
