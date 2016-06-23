@@ -12,13 +12,15 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "pear-pear.php.net/Net_IMAP": "*",
-        "pear-pear.php.net/Auth_SASL": "*"
+        "pear/pear-core-minimal": "^1.10",
+        "ppast/auth_sasl": "^1.0",
+        "pear/net_socket": "^1.0"
+        "xlight/Net_IMAP": "*",
     },
     "repositories": [
         {
-            "type": "pear",
-            "url": "pear.php.net"
+            "type": "vcs",
+            "url": "https://github.com/xlight/imap-idle"
         }
     ],
     "autoload": {
