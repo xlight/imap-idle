@@ -1,5 +1,5 @@
 {
-    "name": "noi/imap-idle",
+    "name": "xlight/imap-idle",
     "description": "An implementation of the IMAP IDLE (RFC 2177) based on the pear/Net_IMAP",
     "license": "MIT",
     "type": "library",
