@@ -20,7 +20,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/xlight/imap-idle"
+            "url" : "https://github.com/xlight/imap-idle"
         }
     ],
     "autoload": {
